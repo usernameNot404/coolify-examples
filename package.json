@@ -1,0 +1,7 @@
+{
+  "name": "app-pyuy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "sleep infinity"
+  }
+}
